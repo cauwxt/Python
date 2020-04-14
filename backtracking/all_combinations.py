@@ -35,5 +35,5 @@ def print_all_state(total_list):
 if __name__ == "__main__":
     n = 4
     k = 2
-    total_list = generate_all_combinations(n, k)
-    print_all_state(total_list)
+    # total_list = generate_all_combinations(n, k)
+    # print_all_state(total_list)
